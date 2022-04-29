@@ -41,4 +41,9 @@ The side view of an offset Reflect Array system showing the edge and feed subten
 # PRODUCTION
 ![image](https://user-images.githubusercontent.com/83426515/165910943-93ed0a8d-8c81-43d1-becf-ae4f41251bb4.png)
 
-			                                          			
+# REFERENCES			                                          			
+1. Reflectarray Antennas by John Huang ,Jose Antonio Encinar.
+2. Reflectarray Antennas Theory, Designs, and Applications (Wiley - IEEE)1st Edition by Payam Nayeri , Fan Yang ,Atef Z. Elsherbeni.
+3. REFLECTARRAY ANTENNAS: A review Eduardo Carrasco (1) and Jose A. Encinar (2) (1) Foundation for Research on Information Technologies in Society (IT’IS) (Email: carrasco@itis.ethz.ch) (2) Universidad Politécnica de Madrid (Email: jose.encinar@upm.es)
+4. ACES Journal :The Analogy between Offset Configurations of Parabolic Reflectors and Reflectarrays :Payam Nayeri , Atef Z. Elsherbeni , and Fan Yang. 
+
