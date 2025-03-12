@@ -1,14 +1,15 @@
 # Estimation_of_PHASE_CORRECTION_ERROR_OF_Reflect_Array_Antenna
 
 <br>
-Designed end to end model for computing the phase correction error factor and 3D simulation model for properties ofreflect arrays and parabolic reflectors to calculate phase difference of patch elements using High performance clusters, whichserves as reference for antenna fabrication to ensure stable Transmission and Reception.
+A comprehensive model to compute the phase correction error factor and simulate the 3D properties of reflect arrays and parabolic reflectors. The model calculates the phase differences for patch elements, serving as a crucial reference in antenna fabrication to ensure stable transmission and reception.
 
 Technologies Used:MATLAB, Simulink, Python, and Ansys HFSS
 <br>
 <br>
 Description	
 <br>
-	Motive of this project is to simulate the properties of an Antenna such that it gives the phase difference in which the elements need to be manufactured such that the Antenna provides stable Transmission and Reception.	
+The primary motive of this project is to simulate antenna properties to determine the precise phase difference required for the manufacturing of antenna elements. This ensures that the fabricated antenna provides stable transmission and reception, thereby improving overall performance and reliability.
+
 <br>
 <br>
 	
